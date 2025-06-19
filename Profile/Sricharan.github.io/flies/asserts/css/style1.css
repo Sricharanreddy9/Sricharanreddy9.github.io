@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+    padding: 10px;
+    border-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
